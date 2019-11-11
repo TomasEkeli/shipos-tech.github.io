@@ -33,7 +33,7 @@ title: Home
 				applications to new customers like you would with apps on
 				Google Play.</p>
 				<p>ShipOS is an open collaboration for a standard OS onboard
-				ships. A Class Society’s needs for standardization and for
+				ships. With it we believe society’s needs for standardization and for
 				relevant data can be efficiently realized.</p>
 			</div>
 		</section>
