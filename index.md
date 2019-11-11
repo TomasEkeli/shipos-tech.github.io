@@ -33,7 +33,7 @@ title: Home
 				applications to new customers like you would with apps on
 				Google Play.</p>
 				<p>ShipOS is an open collaboration for a standard OS onboard
-				ships. A Class Society’s needs for standardization and for
+				ships. With it we believe society’s needs for standardization and for
 				relevant data can be efficiently realized.</p>
 			</div>
 		</section>
@@ -62,7 +62,7 @@ title: Home
 					<li>Stability: Work toward Telco software stability - at sea, IT is notoriously hard to fix</li>
 					<li>Development: Avoid design by committee through clear responsibilities and core principles</li>
 					<li>Privacy: Your data is your own - data-owners should consent to usage and be able to see who can see their data</li>
-					<li>Containment: "Walled garden" principle - control allocation of resources to avoid noisy neighbors and (Quotas)</li>
+					<li>Containment: "Walled garden" principle - control allocation of resources to avoid noisy neighbors and overrun usage quotas</li>
 					<li>Technology: Built on a modern software and hardware stack</li>
 					<li>Simplicity: Limit the surface area to create a predictable platform (Linux, Docker, Kubernetes - no VMs and Windows)</li>
 					<li>Connectivity: Connectivity is scarce and costly - QoS and prioritization needs to be on a ShipOS level</li>
@@ -109,7 +109,7 @@ title: Home
 				leaner, agile and responsive to real-time events. This has
 				made it possible to create complex software solutions in
 				record time. Wilhelmsen's Smart Rope solution and their
-				Digiboiler software was created in just a few weeks weeks.</p>
+				Digiboiler software was created in just a few weeks.</p>
 				<p>It is far easier to manage EDA software. Smaller pieces
 				makes for easier debugging and faster development cycles.
 				Pieces are more loosly coupled. Updates are easier and
@@ -120,8 +120,8 @@ title: Home
 		</section>
 		<section class="major">
 			<div class="content">
-				<h3>Architecture insight</h3>
-				<p>These set of architecture drawings will help you gain an insight into how ShipOS is structured.</p>
+				<h3>Architectural Insight</h3>
+				<p>This set of architecture drawings will help you gain an insight into how ShipOS is structured.</p>
 				<center>
 				<div class="image"><img src="assets/images/architecture1.png" alt="" /></div><hr />
 				<div class="image"><img src="assets/images/architecture2.png" alt="" /></div><hr />
